@@ -1,2 +1,2 @@
 # Cricstats
-T20 World Cup Analytics
+T20 World Cup-2022 Analytics
